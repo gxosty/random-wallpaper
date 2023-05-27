@@ -2,6 +2,7 @@
 A python app that parses WallpaperCave.com and sets random wallpaper on your desktop
 
 Currently Supports only Windows
+
 _rwall.spec_ file is also included to make a standalone __.exe__ using pyinstaller
 
 # Requirements
